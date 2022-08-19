@@ -1,3 +1,7 @@
 # PyTorchers
 
-Repo for the autoML teams's PyTorchers project for sharing knowledge
+![logo](./imgs/logo.png)
+
+
+PyTorchers is a study group within the 4intelligence's AutoML & TimeSeries team for sharing and developing deep learning knowledge, applying previously presented and discussed theory with PyTorch.
+
